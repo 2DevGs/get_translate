@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Flutter Demo',
       translations: TranslationKeys(),
-      // locale: const Locale('pt', 'BR'),
-      locale: const Locale('en', 'US'),
+      locale: const Locale('pt', 'BR'),
+      // locale: const Locale('en', 'US'),
       fallbackLocale: const Locale('pt', 'BR'),
       theme: ThemeData(
         primarySwatch: Colors.blue,
