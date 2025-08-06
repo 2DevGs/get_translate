@@ -1,0 +1,8 @@
+{
+    "title_app": "GetX Перевод",
+    "welcome": "Привет, @name",
+    "user_list_title_simple": "Пользователь",
+    "user_list_title_simple_plural": "Пользователи",
+    "user_list_title": "@total Пользователь",
+    "user_list_title_plural": "@total Пользователи"
+}

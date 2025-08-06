@@ -1,0 +1,8 @@
+{
+    "title_app": "GetX Traducción",
+    "welcome": "Hola @name",
+    "user_list_title_simple": "Usuario",
+    "user_list_title_simple_plural": "Usuarios",
+    "user_list_title": "@total Usuario",
+    "user_list_title_plural": "@total Usuarios"
+}

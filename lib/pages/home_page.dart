@@ -56,6 +56,18 @@ class HomePage extends StatelessWidget {
               },
               child: const Text('Alterar BR'),
             ),
+            ElevatedButton(
+              onPressed: () {
+                Get.updateLocale(const Locale('ru', 'MO'));
+              },
+              child: const Text('Alterar RU'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Get.updateLocale(const Locale('sb', 'SB'));
+              },
+              child: const Text('Alterar SB'),
+            ),
             const SizedBox(
               height: 20,
             ),
